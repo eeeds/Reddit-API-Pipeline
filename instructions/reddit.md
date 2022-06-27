@@ -12,7 +12,7 @@ To extract Reddit data, we need to use its Application Programming Interface ([A
 
     - the App name
     - the App ID
-    - API Secret Key
+    - API Secret
 
 ---
 

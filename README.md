@@ -1,8 +1,8 @@
 # Reddit ETL Pipeline
 
-A data pipeline to extract Reddit data from [r/dataengineering](https://www.reddit.com/r/dataengineering/). 
+A data pipeline to extract Reddit data from [r/dataengineering](https://www.reddit.com/r/gwent/). 
 
-Output is a Google Data Studio report, providing insight into the Data Engineering official subreddit.
+Output is a Google Data Studio report
 
 ## Motivation
 
